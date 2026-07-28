@@ -14,12 +14,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Unidad Nacional Antifraude | Registro y Atención Oficial de Víctimas",
-  description: "Organismo oficial de prevención, atención y gestión legal a víctimas de fraude digital, cibernético y bancario en México.",
+  title: "Unidad Nacional Antifraude | Organismo Gubernamental Oficial",
+  description: "Organismo gubernamental oficial de prevención, atención y gestión legal a víctimas de fraude digital, cibernético y bancario en México.",
   keywords: ["Unidad Nacional Antifraude", "recuperacion de fondos", "fraude digital", "recuperar dinero", "atencion oficial a victimas"],
   authors: [{ name: "Unidad Nacional Antifraude" }],
   openGraph: {
-    title: "Unidad Nacional Antifraude | Atención Oficial",
+    title: "Unidad Nacional Antifraude | Organismo Gubernamental",
     description: "Atención e intervención inmediata a víctimas de fraudes cibernéticos e inversiones no autorizadas en México.",
     type: "website",
   },

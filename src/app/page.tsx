@@ -33,7 +33,7 @@ export default function Home() {
     phoneDisplay: "55 4011 7989",
     phoneRaw: "5540117989",
     whatsappUrl: "https://wa.me/525540117989?text=Hola,%20necesito%20asesor%C3%ADa%20para%20la%20recuperaci%C3%B3n%20de%20mis%20fondos.",
-    address: "INSURGENTES SUR 762 COL. DEL VALLE C.P. 03100, CDMX.",
+    address: "Juan Salvador Agraz 101, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX",
   };
 
   return (
@@ -43,7 +43,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2 text-slate-400">
           <div className="flex items-center gap-2 font-medium tracking-wide">
             <ShieldAlert className="w-3.5 h-3.5 text-emerald-500" />
-            <span>SISTEMA DE ASISTENCIA Y AUDITORÍA FINANCIERA</span>
+            <span>SISTEMA GUBERNAMENTAL DE ASISTENCIA Y AUDITORÍA FINANCIERA</span>
           </div>
           <div className="flex items-center gap-4">
             <span className="hidden md:flex items-center gap-1.5">
@@ -73,7 +73,7 @@ export default function Home() {
                 {site.name}
               </h1>
               <p className="text-[10px] sm:text-[11px] text-slate-500 font-medium tracking-widest uppercase mt-1">
-                Recuperación Institucional de Activos
+                Recuperación Gubernamental e Institucional de Activos
               </p>
             </div>
           </div>
@@ -103,7 +103,7 @@ export default function Home() {
               <div className="max-w-2xl">
                 <div className="inline-flex items-center gap-2 px-3 py-1 bg-emerald-50 border border-emerald-200 text-emerald-800 text-[10px] sm:text-xs font-bold uppercase tracking-widest rounded mb-6">
                   <ShieldCheck className="w-3.5 h-3.5" />
-                  <span>Intervención Legal y Financiera</span>
+                  <span>Intervención Gubernamental y Financiera</span>
                 </div>
 
                 <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-[1.1] mb-6">
@@ -197,7 +197,7 @@ export default function Home() {
                 <Target className="w-8 h-8 text-emerald-700 mb-6" />
                 <h4 className="text-xl font-bold text-slate-900 mb-4">Misión</h4>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Brindar apoyo y soluciones efectivas a víctimas de fraudes digitales, ayudándolas a recuperar su dinero y confianza mediante un servicio especializado y empático. Nos comprometemos a usar todas las herramientas legales y tecnológicas a nuestro alcance para combatir el fraude digital y defender los intereses de nuestros clientes de manera justa y profesional.
+                  Brindar apoyo y soluciones efectivas a víctimas de fraudes digitales, ayudándolas a recuperar su dinero y confianza mediante un servicio especializado y empático. Nos comprometemos a usar todas las herramientas legales y tecnológicas a nuestro alcance para combatir el fraude digital y defender los intereses de los ciudadanos de manera justa y profesional.
                 </p>
               </div>
 
@@ -215,7 +215,7 @@ export default function Home() {
                 <Rocket className="w-8 h-8 text-emerald-700 mb-6" />
                 <h4 className="text-xl font-bold text-slate-900 mb-4">Objetivo</h4>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Proporcionar un proceso de recuperación de dinero eficiente y accesible, con una tasa de éxito que permita a las víctimas de fraudes digitales recibir un apoyo integral. Queremos educar, informar y asistir a nuestros clientes, mientras fortalecemos sus capacidades para prevenir futuros incidentes.
+                  Proporcionar un proceso de recuperación de dinero eficiente y accesible, con una tasa de éxito que permita a las víctimas de fraudes digitales recibir un apoyo integral. Queremos educar, informar y asistir a los ciudadanos, mientras fortalecemos sus capacidades para prevenir futuros incidentes.
                 </p>
               </div>
             </div>
@@ -239,7 +239,7 @@ export default function Home() {
                 <TrendingUp className="w-8 h-8 text-emerald-700 mb-6" />
                 <h4 className="text-lg font-bold text-slate-900 mb-3">Inversiones Fraudulentas</h4>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Logramos devolver fondos perdidos a clientes afectados por esquemas de inversión falsos, plataformas fantasma y esquemas piramidales, colaborando con entidades regulatorias e instituciones bancarias.
+                  Logramos devolver fondos perdidos a ciudadanos afectados por esquemas de inversión falsos, plataformas fantasma y esquemas piramidales, colaborando con entidades regulatorias e instituciones bancarias.
                 </p>
               </div>
 
@@ -247,7 +247,7 @@ export default function Home() {
                 <ShoppingBag className="w-8 h-8 text-emerald-700 mb-6" />
                 <h4 className="text-lg font-bold text-slate-900 mb-3">Comercio en Línea</h4>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Hemos ayudado a clientes a recuperar dinero perdido en compras no entregadas o servicios no prestados, negociando directamente con plataformas de pago y pasarelas financieras.
+                  Hemos ayudado a ciudadanos a recuperar dinero perdido en compras no entregadas o servicios no prestados, negociando directamente con plataformas de pago y pasarelas financieras.
                 </p>
               </div>
 
@@ -302,7 +302,7 @@ export default function Home() {
                   <div>
                     <h4 className="text-lg font-bold mb-2">Transparencia</h4>
                     <p className="text-slate-400 text-sm leading-relaxed">
-                      Mantenemos a nuestros clientes informados en cada etapa del proceso, con comunicación clara y honesta sobre los avances.
+                      Mantenemos a los ciudadanos informados en cada etapa del proceso, con comunicación clara y honesta sobre los avances.
                     </p>
                   </div>
                 </div>
@@ -342,7 +342,7 @@ export default function Home() {
                   <div>
                     <h4 className="text-lg font-bold mb-2">Confidencialidad</h4>
                     <p className="text-slate-400 text-sm leading-relaxed">
-                      Respetamos la privacidad y seguridad de la información de nuestros clientes, protegiendo sus datos durante todo el proceso.
+                      Respetamos la privacidad y seguridad de la información de los ciudadanos, protegiendo sus datos durante todo el proceso.
                     </p>
                   </div>
                 </div>
@@ -413,6 +413,20 @@ export default function Home() {
           <MessageSquare className="w-4 h-4" />
         </a>
       </div>
+
+      {/* Floating Desktop FAB */}
+      <a
+        href={site.whatsappUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Contactar por WhatsApp"
+        className="hidden sm:flex fixed bottom-6 right-6 z-50 bg-emerald-900 hover:bg-emerald-800 text-white p-4 rounded-full shadow-2xl border border-emerald-700 transition-transform duration-300 hover:scale-110 items-center justify-center group"
+      >
+        <span className="absolute -top-1 -right-1 bg-emerald-500 text-slate-950 text-[10px] font-bold w-5 h-5 rounded-full flex items-center justify-center animate-bounce">
+          1
+        </span>
+        <MessageSquare className="w-7 h-7 text-white" />
+      </a>
 
     </div>
   );
